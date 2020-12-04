@@ -11,7 +11,7 @@ Rocketshoes
 
 <p align="center">
   <a href="https://github.com/vtorres96/rocketshoes/graphs/contributors">
-<img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-twitch-app?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-twitch-app?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
   </a>
 </p>
 
